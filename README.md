@@ -7,6 +7,23 @@
 ## How To Use
 - /devmenu - to open menu
 - /np - to use noclip
+- /warn - to warn a person
+- /remove - to remove warning form person
+- /setmeadmin - to give yourself a Perm GOD 
+- /checkwarns - to check warns
+- /givenuifocus - to give Nui Fouces
+- /setmodel - to set model 
+- /setspeed - to change a speed (fast or normal)
+- /setammo - to set ammo in you're weapon 
+- /66755kickall55 - to kick all Players
+- /system - to send a message for all players in Chat
+- /report - to talk with dev
+- /reportbug - to report about bug
+- /staffchat - to send a message for all admins
+- /reportr - to reply a report
+- /s - to send a message for STAFF
+- /togglereport - On/Off Report
+- /changename - change character name
 
 ## Developed By
 - This script was fixed and leaked by Ahmed Samir. 
