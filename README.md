@@ -25,6 +25,10 @@
 - /togglereport - On/Off Report
 - /changename - change character name
 
+## Dependencies
+- [Warmenu](https://github.com/warxander/warmenu)
+- [qb-core](https://github.com/qbcore-framework/qb-core)
+
 ## Developed By
 - This script was fixed and leaked by Ahmed Samir. 
 
