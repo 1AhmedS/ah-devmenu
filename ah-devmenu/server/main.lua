@@ -92,7 +92,7 @@ AddEventHandler('ah-devmenu:server:revivePlayer', function(target)
 
 end)
 
-QBCore.Commands.Add("ahmenu", "Ahmed Samir Private Menu (Dev)", {}, false, function(source, args)
+QBCore.Commands.Add("devmenu", "Ahmed Samir Private Menu (Dev)", {}, false, function(source, args)
     local group = QBCore.Functions.GetPermission(source)
     TriggerClientEvent('ah-devmenu:client:openMenu', source, group)
 end, "god")
