@@ -1,5 +1,5 @@
 # ah-devmenu
-![StoreLogo](https://cdn.discordapp.com/attachments/976580916719812641/1238803408241299476/ticket.png?ex=66409d14&is=663f4b94&hm=5ff6d32c367ee9626acce1a47f7492bcbee6ee496152b6674731acb75b3b4498&)
+![StoreLogo](https://media.discordapp.net/attachments/976580916719812639/1289077616787329116/test_youtube_banner.png?ex=66f78295&is=66f63115&hm=b1545ad5e23f66c42b56ab898fab72dd88c5682c400190c06882f97830c8f688&=&format=webp&quality=lossless&width=891&height=501)
 
 ## Thanks
 - Thank you for downloading this file from B9-Store ! 
@@ -36,8 +36,7 @@
 - Instagram: @a_samir147
 
 ## Best Regurds
-- Ahmed Samir (B9 Developer)
-- B9MH (Owner)
+- Ahmed Samir (Dev)
 
 ## Store Discord
 - https://discord.gg/t6UHWVM27r
