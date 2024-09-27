@@ -36,7 +36,7 @@
 - This script was fixed and leaked by Ahmed Samir. 
 
 ## Follow Me
-- Instagram: @a_samir147
+- Instagram: [@nsl2j](https://www.instagram.com/nsl2j)
 
 ## Best Regurds
 - Ahmed Samir (Dev)
