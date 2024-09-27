@@ -42,4 +42,4 @@
 - Ahmed Samir (Dev)
 
 ## Store Discord
-- https://discord.gg/t6UHWVM27r
+- [Discord](https://discord.gg/cWZVVkMAcr)
