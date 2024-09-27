@@ -2,7 +2,10 @@
 ![StoreLogo](https://media.discordapp.net/attachments/976580916719812639/1289078015489216522/githubbanner.png?ex=66f782f4&is=66f63174&hm=6e7f15e06de6f6f737db2311bac80258b7c713e979668fd402d52c89a225e7a2&=&format=webp&quality=lossless)
 
 ## Thanks
-- Thank you for downloading this file from B9-Store ! 
+- Thank you for downloading this file from 1AhmedS ! 
+
+## Donate
+- [Paypal](https://paypal.me/ASamir941) Buy me a Coffee ☕
 
 ## How To Use
 - /devmenu - to open menu
